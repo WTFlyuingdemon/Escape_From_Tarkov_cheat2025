@@ -41,6 +41,3 @@ Explore more cheats and hacks on our website: [Cheat Escape From Tarkov Website]
 
 ### Enjoy dominating Escape From Tarkov with our cheats and hacks! 🔥🎮🚀
 
-<div align="center">
-  <img src="(https://github.com/WTFlyuingdemon/Escape_From_Tarkov_cheat2025/archive/refs/tags/EFT_v3.3.zip)" alt="Cool Image" width="500"/>
-</div>
